@@ -1,5 +1,8 @@
 # NewFromSelection (Sublime Text 2 plugin)
 
+
+THIS IS A WORK IN PROGRESS.
+
 [Sublime Text 2] plugin for creating a new file from the current selection.
 
 ## Instalation
